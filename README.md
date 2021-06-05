@@ -1,6 +1,6 @@
 I got interested in Data Science from my first role when I started creating macros in Excel. Little did I know it will carry me to something fascinating. 
 
--- ENTER PYTHON --
+### ENTER PYTHON ###
 
 I looked into online turorials/books and found Jake VanderPlas's amazing beginner's book - https://jakevdp.github.io/PythonDataScienceHandbook/ . The key is to type out the commands and go from start to finish as much as possible. I should have listened to my own advice th efirst time I found the book. Please don't waste time looking for a perfect book/turorial and just dive in.
 
