@@ -6,4 +6,6 @@ I looked into online turorials/books and found Jake VanderPlas's amazing beginne
 
 If someone is looking to wet his feets into the world of Data Analytics, look no further. Just follow along the exercises and keep the book as your guide. I am uploading data sources as well (You're Welcome) to help the seekers, since the links in the book were not working and might discourage the learners.
 
-I chose to use Google Colabs as they are incredibly easy to use and you can just dive without any downloads. I have updated the scripts where possible, since some functions are deprecated. 
+I chose to use Google Colabs as they are incredibly easy to use and you can just dive without any downloads. I am in the process of updating the scripts where possible, since some functions are deprecated. 
+
+### Good Luck ###
