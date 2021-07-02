@@ -12,14 +12,13 @@ I chose to use Google Colabs as they are incredibly easy to use and you can star
 
 _1. [Introduction](https://github.com/amzangi/datascience-bootcamp/blob/master/1_Introduction.ipynb)_
 It talks about launching the notebooks and introduces the reader to helpful documentation and shortcuts.
-
 _2. [Introduction to NumPy](https://github.com/amzangi/datascience-bootcamp/blob/master/2_Numpy.ipynb)_
 Here we learn about numpy’s abilities to load, store and manipulate in-memory data.
 
 _3. Data Manipulation with Pandas_
 Now comes pandas which is built on numpy. It uses Dataframe and Series objects for manipulating data. I divided it into 2 manageable chunks.
 
-[Part a](https://github.com/amzangi/datascience-bootcamp/blob/master/3a_Pandas.ipynb)
+[Part a](https://github.com/amzangi/datascience-bootcamp/blob/master/3a_Pandas.ipynb)  
 [Part b](https://github.com/amzangi/datascience-bootcamp/blob/master/3b_Pandas.ipynb)
 
 _4. [Visualization with Matplotlib](https://github.com/amzangi/datascience-bootcamp/blob/master/4_Matplotlib.ipynb)_
