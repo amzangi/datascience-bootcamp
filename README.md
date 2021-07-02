@@ -12,6 +12,7 @@ I chose to use Google Colabs as they are incredibly easy to use and you can star
 
 _1. [Introduction](https://github.com/amzangi/datascience-bootcamp/blob/master/1_Introduction.ipynb)_
 It talks about launching the notebooks and introduces the reader to helpful documentation and shortcuts.
+
 _2. [Introduction to NumPy](https://github.com/amzangi/datascience-bootcamp/blob/master/2_Numpy.ipynb)_
 Here we learn about numpy’s abilities to load, store and manipulate in-memory data.
 
